@@ -1,4 +1,8 @@
 ### Hi there 👋
+I like to build cool things with Swift
+![I like to build cool shit with Swift](https://developer.apple.com/swift/images/swift-og.png)
+
+
 
 <!--
 **zeroes-ones/zeroes-ones** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
