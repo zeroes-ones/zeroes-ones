@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 24" width="600" height="24">
+  <defs>
+    <linearGradient id="gd" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#007AFF" stop-opacity="0.2">
+        <animate attributeName="stop-color" values="#007AFF;#00C6FF;#5856D6;#007AFF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#00C6FF" stop-opacity="0.8">
+        <animate attributeName="stop-color" values="#00C6FF;#5856D6;#007AFF;#00C6FF" dur="4s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#5856D6" stop-opacity="0.2">
+        <animate attributeName="stop-color" values="#5856D6;#007AFF;#00C6FF;#5856D6" dur="4s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <line x1="50" y1="12" x2="250" y2="12" stroke="url(#gd)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x2" values="250;270;250" dur="2s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="300" cy="12" r="3" fill="#00C6FF">
+    <animate attributeName="r" values="3;5;3" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;0.4;1" dur="1.5s" repeatCount="indefinite"/>
+  </circle>
+  <line x1="350" y1="12" x2="550" y2="12" stroke="url(#gd)" stroke-width="2" stroke-linecap="round">
+    <animate attributeName="x1" values="350;330;350" dur="2s" repeatCount="indefinite"/>
+  </line>
+</svg>

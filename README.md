@@ -3,6 +3,12 @@
 </p>
 
 <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Sandeep+Kumar+Penchala;Engineering+Manager+%26+Staff+Engineer;16%2B+Years+%7C+Apple+Platforms+%7C+AI;Building+Agent-Native+Developer+Tools&font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=55" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeroes-ones&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/zeroes-ones?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/zeroes-ones?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
@@ -171,4 +177,8 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=120&section=footer" alt="Footer" />
+</p>
+
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Random Dev Joke" />
 </p>
