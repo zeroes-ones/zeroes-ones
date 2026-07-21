@@ -37,30 +37,44 @@ I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-333333?style=for-the-badge&logo=apple&logoColor=white)
+
+### Apple Frameworks
+
+![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Combine](https://img.shields.io/badge/Combine-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Core Data](https://img.shields.io/badge/Core_Data-333333?style=for-the-badge&logo=apple&logoColor=white)
+![VIPER](https://img.shields.io/badge/VIPER-333333?style=for-the-badge)
 
 ### Languages & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-333333?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-333333?style=for-the-badge)
 
 ### Identity & Security
 
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![SSO](https://img.shields.io/badge/SSO-333333?style=for-the-badge&logo=auth0&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth%202.0-333333?style=for-the-badge&logo=auth0&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-333333?style=for-the-badge)
 
-### DevOps & Observability
+### DevOps & Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Feature Flags](https://img.shields.io/badge/Feature_Flags-333333?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ### AI & Agents
 
