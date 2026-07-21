@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif" alt="Sandeep Kumar Penchala" width="700" />
+  <img src="banner.svg" alt="Sandeep Kumar Penchala" width="700" />
 </p>
 
 <p align="center">
