@@ -73,7 +73,8 @@ I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers
 ## Scholarly Articles
 
 - **[Functional Programming Paradigms in Mobile Streaming Architecture](https://www.researchgate.net/publication/399073215_Functional_Programming_Paradigms_in_Mobile_Streaming_Architecture_A_Technical_Analysis_of_Swift-Based_Real-Time_Systems)** — A Technical Analysis of Swift-Based Real-Time Systems · [Semantic Scholar](https://www.semanticscholar.org/paper/Functional-Programming-Paradigms-in-Mobile-A-of-Penchala/1e92a10685b2fc4573d2dba8e7b36671ce616d44)
-- **[Zero-Trust Architecture for Apple Platforms](https://www.researchgate.net/publication/399036068_Zero-Trust_Architecture_for_Apple_Platforms_A_Comprehensive_Security_Framework)** — A Comprehensive Security Framework · [Semantic Scholar](https://www.semanticscholar.org/paper/Zero-Trust-Architecture-for-Apple-Platforms%3A-A-Penchala/e0cbd5ba22731332941ea9d962fe31342a8d9bd2) · [Eudoxus Press](https://eudoxuspress.com/index.php/pub/article/view/4471)
+- **[Zero-Trust Architecture for Apple Platforms](https://www.researchgate.net/publication/399036068_Zero-Trust_Architecture_for_Apple_Platforms_A_Comprehensive_Security_Framework)** — A Comprehensive Security Framework · [Semantic Scholar](https://www.semanticscholar.org/paper/Zero-Trust-Architecture-for-Apple-Platforms%3A-A-Penchala/e0cbd5ba22731332941ea9d962fe31342a8d9bd2)
+- **[Leveraging Server-Sent Events Architecture for Secure IoT Device Connectivity](https://eudoxuspress.com/index.php/pub/article/view/4471)** — An Enterprise-Grade Approach with iOS Platform Integration · *Journal of Computational Analysis and Applications (JoCAAA)*, 2025
 
 ---
 
@@ -95,6 +96,14 @@ I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers
 ---
 
 ![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=zeroes-ones&theme=tokyo-night&hide_border=true&area=true)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zeroes-ones/zeroes-ones/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zeroes-ones/zeroes-ones/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="Snake animation eating contribution grid" src="https://raw.githubusercontent.com/zeroes-ones/zeroes-ones/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</p>
 
 ---
 
