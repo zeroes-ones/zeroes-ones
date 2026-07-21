@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="banner.svg" alt="Sandeep Penchala" width="700" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zeroes-ones&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/zeroes-ones?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/zeroes-ones?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
