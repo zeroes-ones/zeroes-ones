@@ -16,9 +16,9 @@
 
 ---
 
-**Sandeep Kumar Penchala** — Engineering Manager & Staff Software Engineer based in McKinney, TX. 16+ years leading mobile and backend engineering at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa** — building high-performing teams, platform foundations, and secure, scalable systems used by millions.
+**Sandeep Kumar Penchala** — I build platforms, teams, and AI-native tools that help developers ship faster — from idea to production. Engineering Manager & Staff Software Engineer based in McKinney, TX, with 16+ years shipping mobile and backend systems at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa**.
 
-I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, Android, and backend-integrated systems. I ship open-source tools, build full-stack products, and create agent-agnostic skills that help developers go from idea to production — solo to enterprise.
+I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, Android, and backend-integrated systems. Creator of the **[largest open-source AI skill collection](https://github.com/zeroes-ones/Skills)** (56 skills, 13 domains) and **[Lantern](https://github.com/zeroes-ones/Lantern)** — an AI-native community platform. I ship open-source tools, build full-stack products, and create agent-agnostic skills that work across Claude Code, Copilot CLI, Cursor, OpenClaw, and Gemini CLI.
 
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/zerosones/) · [GitHub](https://github.com/zeroes-ones)
 
