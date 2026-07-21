@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Sandeep+Kumar+Penchala;Engineering+Manager+%26+Staff+Engineer;16%2B+Years+%7C+Apple+Platforms+%7C+AI;Building+Agent-Native+Developer+Tools&font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=55" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Sandeep+Kumar+Penchala;Engineering+Manager+%26+Staff+Engineer;16%2B+Years+%7C+Mobile+%7C+Backend+%7C+AI;Building+Agent-Native+Developer+Tools&font=Fira+Code&size=22&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&height=55" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,9 +16,9 @@
 
 ---
 
-**Sandeep Kumar Penchala** — Engineering Manager & Staff Software Engineer based in McKinney, TX. 16+ years leading Apple-platform and mobile engineering at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa** — building high-performing teams, platform foundations, and secure, scalable systems used by millions.
+**Sandeep Kumar Penchala** — Engineering Manager & Staff Software Engineer based in McKinney, TX. 16+ years leading mobile and backend engineering at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa** — building high-performing teams, platform foundations, and secure, scalable systems used by millions.
 
-I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, macOS, and backend-integrated systems. I ship open-source tools, write Swift, and build agent-agnostic skills that help developers go from idea to production — solo to enterprise.
+I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, Android, and backend-integrated systems. I ship open-source tools, build full-stack products, and create agent-agnostic skills that help developers go from idea to production — solo to enterprise.
 
 📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/zerosones/) · [GitHub](https://github.com/zeroes-ones)
 
@@ -39,7 +39,7 @@ I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers
 
 ## 🔧 Building with AI — Personal Projects
 
-I build AI-assisted engineering tools that accelerate the entire software delivery lifecycle on Apple platforms. Each project is dogfooded in my own workflows and designed to be shared with the community.
+I build AI-assisted engineering tools that accelerate the entire software delivery lifecycle across mobile and backend platforms. Each project is dogfooded in my own workflows and designed to be shared with the community.
 
 <p align="center">
   <a href="https://github.com/zeroes-ones/Skills">
@@ -57,7 +57,7 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built_with-AI_Agents-007AFF?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Platform-Apple_Ecosystem-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platforms-iOS_%7C_Android_%7C_Web_%7C_Backend-333333?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Developer_Productivity-333333?style=for-the-badge" />
 </p>
 
@@ -65,47 +65,40 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 
 ## Tech Stack
 
-### Apple Platforms
+### 📱 Mobile
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
 ![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Objective-C](https://img.shields.io/badge/Objective--C-333333?style=for-the-badge&logo=apple&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-
-### Apple Frameworks
-
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![RxSwift](https://img.shields.io/badge/RxSwift-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Combine](https://img.shields.io/badge/Combine-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![Core Data](https://img.shields.io/badge/Core_Data-333333?style=for-the-badge&logo=apple&logoColor=white)
-![VIPER](https://img.shields.io/badge/VIPER-333333?style=for-the-badge)
 
-### Web & Mobile
+### ⚙️ Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST](https://img.shields.io/badge/REST_APIs-333333?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+### 🌐 Web & Frontend
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-333333?style=for-the-badge)
-
-### Languages & Backend
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![REST](https://img.shields.io/badge/REST_APIs-333333?style=for-the-badge)
 
 ### Identity & Security
 
