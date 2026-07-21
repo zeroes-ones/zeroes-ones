@@ -31,6 +31,31 @@ I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers
 
 ---
 
+## 🔧 Building with AI — Personal Projects
+
+I build AI-assisted engineering tools that accelerate the entire software delivery lifecycle on Apple platforms. Each project is dogfooded in my own workflows and designed to be shared with the community.
+
+<p align="center">
+  <a href="https://github.com/zeroes-ones/Skills">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zeroes-ones&repo=Skills&theme=tokyonight&hide_border=true" alt="Skills — agent-agnostic skills library" />
+  </a>
+</p>
+
+| Project | What it does | Status |
+|---|---|---|
+| **AI Code Review Companion** | Generates PR review summaries, flags risky changes, and suggests follow-up checks — cuts review prep time by ~30% | 🚧 Building |
+| **Smart Test Generator** | Converts code diffs and API contracts into unit + integration tests automatically, reducing manual test authoring by ~40% | 🚧 Building |
+| **Requirements → Code Trace** | Links PRs and commits to Jira tickets with AI-generated implementation summaries — near real-time traceability from spec to ship | 🚧 Building |
+| **Agent-Native Skills Library** | 56 skills across 13 domains for Claude Code, Copilot CLI, Cursor & more — the engine behind all my AI workflows | ✅ Live |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_with-AI_Agents-007AFF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-Apple_Ecosystem-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Developer_Productivity-333333?style=for-the-badge" />
+</p>
+
+---
+
 ## Tech Stack
 
 ### Apple Platforms
