@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Sandeep Kumar Penchala" width="700" />
+  <img src="assets/banner.svg" alt="Sandeep Kumar Penchala — Engineering Manager | Staff Software Engineer | iOS Android Backend AI | McKinney TX" width="700" />
 </p>
 
 <p align="center">
@@ -9,31 +9,46 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zeroes-ones&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/zeroes-ones?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/zeroes-ones?label=Total%20Stars&style=for-the-badge&color=yellow" alt="Total Stars" />
+  <a href="https://github.com/zeroes-ones">
+    <img src="https://komarev.com/ghpvc/?username=zeroes-ones&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile views" />
+  </a>
+  <a href="https://github.com/zeroes-ones?tab=followers">
+    <img src="https://img.shields.io/github/followers/zeroes-ones?label=Follow&style=social" alt="Follow on GitHub" />
+  </a>
+  <a href="https://github.com/zeroes-ones?tab=repositories">
+    <img src="https://img.shields.io/github/stars/zeroes-ones?label=Star&style=social" alt="Star my repos" />
+  </a>
+  <a href="https://www.linkedin.com/in/zerosones/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin" alt="Connect on LinkedIn" />
+  </a>
+
+<p align="center">
+  <sub>
+    <strong>Engineering Manager</strong> · <strong>Staff Software Engineer</strong> · <strong>iOS &amp; Android</strong> · <strong>Backend Systems</strong> · <strong>AI/LLM Workflows</strong> · <strong>Identity &amp; Security</strong> · <strong>Open Source</strong> · <strong>Developer Tools</strong> · <strong>React Native</strong> · <strong>FastAPI</strong> · <strong>PostgreSQL</strong>
+  </sub>
 </p>
 
 ---
 
 **Sandeep Kumar Penchala** — I build platforms, teams, and AI-native tools that help developers ship faster — from idea to production. Engineering Manager & Staff Software Engineer based in McKinney, TX, with 16+ years shipping mobile and backend systems at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa**.
 
-I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, Android, and backend-integrated systems. Creator of the **[largest open-source AI skill collection](https://github.com/zeroes-ones/Skills)** (56 skills, 13 domains) and **[Lantern](https://github.com/zeroes-ones/Lantern)** — an AI-native community platform. I ship open-source tools, build full-stack products, and create agent-agnostic skills that work across Claude Code, Copilot CLI, Cursor, OpenClaw, and Gemini CLI.
+I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, Android, and backend-integrated systems. Creator of the **[largest open-source AI skill collection](https://github.com/zeroes-ones/Skills)** (103 skills, 25 domains) and **[Lantern](https://github.com/zeroes-ones/Lantern)** — an AI-native community platform. I ship open-source tools, build full-stack products, and create agent-agnostic skills that work across Claude Code, Copilot CLI, Cursor, OpenClaw, and Gemini CLI.
 
-📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/zerosones/) · [GitHub](https://github.com/zeroes-ones)
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/zerosones/) · [GitHub](https://github.com/zeroes-ones) · [Sponsor](https://github.com/sponsors/zeroes-ones)
+💡 **Available for:** Consulting · Speaking · Open Source Collaboration
 
 ---
 
 ## Skills — The Largest Open Source Skill Collection for AI Coding Agents
 
-**[Skills](https://github.com/zeroes-ones/Skills)** is a collection of **56 production-ready skills** across 13 domains covering the full company lifecycle — CEO vision through architecture, development, security, compliance, and operations. Agent-agnostic and compatible with Claude Code, Copilot CLI, Cursor, OpenClaw, and Gemini CLI.
+**[Skills](https://github.com/zeroes-ones/Skills)** is a collection of **103 production-ready skills** across 25 domains covering the full company lifecycle — CEO vision through architecture, development, security, compliance, and operations. Agent-agnostic and compatible with Claude Code, Copilot CLI, Cursor, OpenClaw, and Gemini CLI.
 
 | What's inside         |                                                               |
 | --------------------- | ------------------------------------------------------------- |
-| **56 skills**         | Engineering, leadership, product, security, data, growth      |
-| **13 domains**        | Strategy, design, architecture, DevOps, legal, operations     |
-| **98 reference docs** | Decision guides, patterns catalogs, deep domain expertise     |
-| **20+ templates**     | Production-ready assets and configurations                    |
+| **103 skills**         | Engineering, leadership, product, security, data, growth      |
+| **25 domains**        | Strategy, design, architecture, DevOps, legal, operations     |
+| **150+ reference docs** | Decision guides, patterns catalogs, deep domain expertise     |
+| **30+ templates**     | Production-ready assets and configurations                    |
 
 ---
 
@@ -52,7 +67,7 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 | **AI Code Review Companion** | Generates PR review summaries, flags risky changes, and suggests follow-up checks — cuts review prep time by ~30% | 🚧 Building |
 | **Smart Test Generator** | Converts code diffs and API contracts into unit + integration tests automatically, reducing manual test authoring by ~40% | 🚧 Building |
 | **Requirements → Code Trace** | Links PRs and commits to Jira tickets with AI-generated implementation summaries — near real-time traceability from spec to ship | 🚧 Building |
-| **Agent-Native Skills Library** | 56 skills across 13 domains for Claude Code, Copilot CLI, Cursor & more — the engine behind all my AI workflows | ✅ Live |
+| **Agent-Native Skills Library** | 103 skills across 25 domains for Claude Code, Copilot CLI, Cursor & more — the engine behind all my AI workflows | ✅ Live |
 | **Lantern** | Full-stack community platform built with an AI-driven 14-skill pipeline — FastAPI, Next.js, React Native (Expo), PostgreSQL, Redis, Terraform | 🚀 Private Beta |
 
 <p align="center">
