@@ -6,9 +6,9 @@
 
 ---
 
-Software engineer and builder based on Mars, with 15+ years of experience across identity, IoT, and developer tooling. Previously at **Okta**, **OnBeep**, **Physical Graph**, and **Azuqua** — I've built everything from embedded hardware to cloud-scale identity platforms.
+**Sandeep Penchala** — Engineering Manager & Staff Software Engineer based in McKinney, TX. 16+ years leading Apple-platform and mobile engineering at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa** — building high-performing teams, platform foundations, and secure, scalable systems used by millions.
 
-I spend most of my time building open-source tools, writing Swift, and creating agent-agnostic skills that help developers ship end-to-end — from idea to production, solo to enterprise.
+I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, macOS, and backend-integrated systems. I ship open-source tools, write Swift, and build agent-agnostic skills that help developers go from idea to production — solo to enterprise.
 
 ---
 
@@ -27,26 +27,34 @@ I spend most of my time building open-source tools, writing Swift, and creating 
 
 ## Tech Stack
 
-### Languages & Frameworks
+### Apple Platforms
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-007AFF?style=for-the-badge&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-333333?style=for-the-badge&logo=apple&logoColor=white)
 
-### Identity & Auth
+### Languages & Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-333333?style=for-the-badge)
+
+### Identity & Security
 
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
+![SSO](https://img.shields.io/badge/SSO-333333?style=for-the-badge&logo=auth0&logoColor=white)
 ![OAuth](https://img.shields.io/badge/OAuth%202.0-333333?style=for-the-badge&logo=auth0&logoColor=white)
-![SAML](https://img.shields.io/badge/SAML-333333?style=for-the-badge)
 
-### DevOps & Infrastructure
+### DevOps & Observability
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Feature Flags](https://img.shields.io/badge/Feature_Flags-333333?style=for-the-badge)
 
 ### AI & Agents
 
