@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Sandeep Kumar Penchala" width="700" />
+  <img src="banner.png" alt="Sandeep Kumar Penchala" width="700" />
 </p>
 
 <p align="center">
@@ -47,6 +47,7 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 | **Smart Test Generator** | Converts code diffs and API contracts into unit + integration tests automatically, reducing manual test authoring by ~40% | 🚧 Building |
 | **Requirements → Code Trace** | Links PRs and commits to Jira tickets with AI-generated implementation summaries — near real-time traceability from spec to ship | 🚧 Building |
 | **Agent-Native Skills Library** | 56 skills across 13 domains for Claude Code, Copilot CLI, Cursor & more — the engine behind all my AI workflows | ✅ Live |
+| **Lantern** | Full-stack community platform built with an AI-driven 14-skill pipeline — FastAPI, Next.js, React Native (Expo), PostgreSQL, Redis, Terraform | 🚀 Private Beta |
 
 <p align="center">
   <img src="https://img.shields.io/badge/Built_with-AI_Agents-007AFF?style=for-the-badge&logo=anthropic&logoColor=white" />
@@ -75,14 +76,29 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 ![Core Data](https://img.shields.io/badge/Core_Data-333333?style=for-the-badge&logo=apple&logoColor=white)
 ![VIPER](https://img.shields.io/badge/VIPER-333333?style=for-the-badge)
 
+### Web & Mobile
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radix-ui&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-333333?style=for-the-badge)
+
 ### Languages & Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-333333?style=for-the-badge)
 
 ### Identity & Security
@@ -92,14 +108,25 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 ![OAuth](https://img.shields.io/badge/OAuth%202.0-333333?style=for-the-badge&logo=auth0&logoColor=white)
 ![Zero Trust](https://img.shields.io/badge/Zero_Trust-333333?style=for-the-badge)
 
-### DevOps & Tools
+### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+### Testing & Observability
+
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 
 ### AI & Agents
 
@@ -126,10 +153,6 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zeroes-ones&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zeroes-ones&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
