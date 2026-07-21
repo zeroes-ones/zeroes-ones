@@ -10,9 +10,11 @@
 
 ---
 
-**Sandeep Penchala** — Engineering Manager & Staff Software Engineer based in McKinney, TX. 16+ years leading Apple-platform and mobile engineering at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa** — building high-performing teams, platform foundations, and secure, scalable systems used by millions.
+**Sandeep Kumar Penchala** — Engineering Manager & Staff Software Engineer based in McKinney, TX. 16+ years leading Apple-platform and mobile engineering at **Okta**, **DocuSign**, **Samsung SmartThings**, and **Visa** — building high-performing teams, platform foundations, and secure, scalable systems used by millions.
 
 I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers through growth and promotion, and driven platform strategy across iOS, macOS, and backend-integrated systems. I ship open-source tools, write Swift, and build agent-agnostic skills that help developers go from idea to production — solo to enterprise.
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/zerosones/) · [GitHub](https://github.com/zeroes-ones)
 
 ---
 
@@ -65,6 +67,30 @@ I've scaled teams from 2 to 10+ engineers with 95%+ retention, coached engineers
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Copilot CLI](https://img.shields.io/badge/Copilot_CLI-333333?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-333333?style=for-the-badge&logo=cursor&logoColor=white)
+
+---
+
+## Scholarly Articles
+
+- **[Functional Programming Paradigms in Mobile Streaming Architecture](https://www.researchgate.net/publication/399073215_Functional_Programming_Paradigms_in_Mobile_Streaming_Architecture_A_Technical_Analysis_of_Swift-Based_Real-Time_Systems)** — A Technical Analysis of Swift-Based Real-Time Systems · [Semantic Scholar](https://www.semanticscholar.org/paper/Functional-Programming-Paradigms-in-Mobile-A-of-Penchala/1e92a10685b2fc4573d2dba8e7b36671ce616d44)
+- **[Zero-Trust Architecture for Apple Platforms](https://www.researchgate.net/publication/399036068_Zero-Trust_Architecture_for_Apple_Platforms_A_Comprehensive_Security_Framework)** — A Comprehensive Security Framework · [Semantic Scholar](https://www.semanticscholar.org/paper/Zero-Trust-Architecture-for-Apple-Platforms%3A-A-Penchala/e0cbd5ba22731332941ea9d962fe31342a8d9bd2) · [Eudoxus Press](https://eudoxuspress.com/index.php/pub/article/view/4471)
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zeroes-ones&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeroes-ones&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zeroes-ones&theme=tokyonight&hide_border=true&card_width=500" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zeroes-ones&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
