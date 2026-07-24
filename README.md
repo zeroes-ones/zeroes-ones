@@ -171,7 +171,7 @@ I build AI-assisted engineering tools that accelerate the entire software delive
 
 ---
 
-![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=zeroes-ones&theme=tokyo-night&hide_border=true&area=true&cache_bust=$(date +%s))
+![Contribution Activity](https://github-readme-activity-graph.vercel.app/graph?username=zeroes-ones&theme=tokyo-night&hide_border=true&area=true)
 
 <p align="center">
   <picture>
