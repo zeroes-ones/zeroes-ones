@@ -3293,7 +3293,7 @@
 
   <!-- Location + stats line -->
   <text x="370" y="325" fill="#8b949e" font-family="system-ui,-apple-system,sans-serif" font-size="22" opacity="0">
-    McKinney, TX  ·  16+ Years Experience  ·  103 Open-Source Skills
+    McKinney, TX  ·  16+ Years Experience  ·  122 Open-Source Skills
     <animate attributeName="opacity" values="0;1" dur="0.6s" fill="freeze" begin="2.0s"/>
   </text>
 
